@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm LegendPei 👋  
+<table>
+<tr><td>
+  
+## 🌍 About Me 
 
-<!--
-**LegendPei/LegendPei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **LegendPei**,  a sophomore majoring in **Computer Science and Technology**.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning backend development, distributed systems, 和 software architecture.  
+- 💡 Strong curiosity and passion for building robust, scalable systems.  
+- 🤝 Eager to **contribute to open source** and grow alongside the developer community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td></tr>
+
+
+<tr><td>
+  
+## 🔍 Tech Stack & Focus Areas
+
+`Java` `Go` `Lua` `Spring Boot` `MyBatis`..
+
+`MySQL` `Redis` `PostgreSQL` `Gin` `GORM` `gRPC`..
+
+`Nacos` `RocketMQ` `RabbitMQ` `Seata`..
+
+`GitHub Actions` `Jenkins` `Docker` `Harbor`..
+
+</td></tr>
+
+
+<tr><td>
+
+## 📃 Goals & Interests
+
+- 🔍 Exploring **microservices**， **distributed transactions**, and **service governance**.  
+- 🧪 Hoping to make more **open-source contributions** 
+
+</td></tr>
+
+## 📈 GitHub Activity
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LegendPei&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&border_color=ff0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</table>
