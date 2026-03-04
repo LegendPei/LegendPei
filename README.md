@@ -38,8 +38,20 @@ Hi, I'm **LegendPei**,  a sophomore majoring in **Computer Science and Technolog
 </td></tr>
 
 <tr><td>
+
+## 📈 Contributions & Working on
+
+-  added some UT  (https://github.com/apache/incubator-seata/pull/7638)
+-  unify json serialization   (https://github.com/apache/incubator-seata/pull/7760)
+-  Automatically calculate the values for JVM parameters   (https://github.com/apache/incubator-seata/pull/7872)
+
+
+
+</td></tr>
+
+<tr><td>
   
-## 📈 GitHub Activity
+##  GitHub Activity
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LegendPei&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&border_color=ff0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
