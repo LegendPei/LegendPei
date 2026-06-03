@@ -37,17 +37,7 @@ Hi, I'm **LegendPei**,  a sophomore majoring in **Computer Science and Technolog
 
 </td></tr>
 
-<tr><td>
 
-## 📈 Contributions & Working on
-
--  added some UT  (https://github.com/apache/incubator-seata/pull/7638)
--  unify json serialization   (https://github.com/apache/incubator-seata/pull/7760)
--  Automatically calculate the values for JVM parameters   (https://github.com/apache/incubator-seata/pull/7872)
-
-
-
-</td></tr>
 
 <tr><td>
   
