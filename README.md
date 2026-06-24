@@ -4,7 +4,7 @@
   
 ## 🌍 About Me 
 
-Hi, I'm **LegendPei**,  a sophomore majoring in **Computer Science and Technology**.
+Hi, I'm **LegendPei**,  a sophomore majoring in **Computer Science and Technology** , **Seata Committer**.
 
 - 🌱 Currently learning backend development, distributed systems, 和 software architecture.  
 - 💡 Strong curiosity and passion for building robust, scalable systems.  
